@@ -9,5 +9,4 @@ export class AppComponent {
   title = 'app';
   sample = 'dd';
   dsfdsf = '10dd';
-  dkdk = '222';
 }
